@@ -1,5 +1,11 @@
 h1 {
     color: red;
     margin: 0;
+    padding: 20px;
     background-color: green;
+}
+.box-1{
+    background-color: yellow;
+    padding: 20px;
+    margin-bottom: 20px;
 }
